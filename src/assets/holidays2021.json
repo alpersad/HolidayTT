@@ -1,0 +1,411 @@
+{
+  "meta": { "code": 200 },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year\u2019s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-01-01",
+          "datetime": { "year": 2021, "month": 1, "day": 1 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "Valentine\u2019s Day is a special time to celebrate love, romance and friendship.",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-02-14",
+          "datetime": { "year": 2021, "month": 2, "day": 14 }
+        },
+        "type": ["Observance"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival",
+        "description": "Carnival is a de facto holiday in Trinidad and Tobago",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-02-15",
+          "datetime": { "year": 2021, "month": 2, "day": 15 }
+        },
+        "type": ["De facto holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival/Shrove Tuesday",
+        "description": "Shrove Tuesday is a religious holiday that is on the day before Ash Wednesday. It is also known as the Tuesday of Carnival, which is a festive occasion among many cultures.",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-02-16",
+          "datetime": { "year": 2021, "month": 2, "day": 16 }
+        },
+        "type": ["De facto holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Trinidad and Tobago (Port of Spain)",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-03-20T05:37:31-04:00",
+          "datetime": {
+            "year": 2021,
+            "month": 3,
+            "day": 20,
+            "hour": 5,
+            "minute": 37,
+            "second": 31
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": ["Season"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Spiritual Baptist Liberation Day",
+        "description": "Spiritual Baptist Liberation Day is a public holiday in Trinidad and Tobago",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-03-30",
+          "datetime": { "year": 2021, "month": 3, "day": 30 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-04-02",
+          "datetime": { "year": 2021, "month": 4, "day": 2 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ\u2019s resurrection, according to Christian belief.",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-04-04",
+          "datetime": { "year": 2021, "month": 4, "day": 4 }
+        },
+        "type": ["Observance"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-04-05",
+          "datetime": { "year": 2021, "month": 4, "day": 5 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother\u2019s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-05-09",
+          "datetime": { "year": 2021, "month": 5, "day": 9 }
+        },
+        "type": ["Observance"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid-al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-05-13",
+          "datetime": { "year": 2021, "month": 5, "day": 13 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Indian Arrival Day",
+        "description": "Indian Arrival Day is a public holiday in Trinidad and Tobago",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-05-30",
+          "datetime": { "year": 2021, "month": 5, "day": 30 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Indian Arrival Day observed",
+        "description": "Indian Arrival Day is a public holiday in Trinidad and Tobago",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-05-31",
+          "datetime": { "year": 2021, "month": 5, "day": 31 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is a Christian feast in honor of the Holy Eucharist.",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-06-03",
+          "datetime": { "year": 2021, "month": 6, "day": 3 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labour Day",
+        "description": "Labor Day, or May Day, is a day off for workers in many countries around the world.",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-06-19",
+          "datetime": { "year": 2021, "month": 6, "day": 19 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father\u2019s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-06-20",
+          "datetime": { "year": 2021, "month": 6, "day": 20 }
+        },
+        "type": ["Observance"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Trinidad and Tobago (Port of Spain)",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-06-20T23:32:09-04:00",
+          "datetime": {
+            "year": 2021,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 32,
+            "second": 9
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": ["Season"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Emancipation Day",
+        "description": "Emancipation Day is a public holiday in Trinidad and Tobago",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-08-01",
+          "datetime": { "year": 2021, "month": 8, "day": 1 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Emancipation Day observed",
+        "description": "Emancipation Day is a public holiday in Trinidad and Tobago",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-08-02",
+          "datetime": { "year": 2021, "month": 8, "day": 2 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Trinidad and Tobago",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-08-31",
+          "datetime": { "year": 2021, "month": 8, "day": 31 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Trinidad and Tobago (Port of Spain)",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-09-22T15:21:11-04:00",
+          "datetime": {
+            "year": 2021,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 21,
+            "second": 11
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": ["Season"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Republic Day",
+        "description": "Republic Day is a public holiday in Trinidad and Tobago",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-09-24",
+          "datetime": { "year": 2021, "month": 9, "day": 24 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Diwali/Deepavali",
+        "description": "Diwali, also known as the Festival of Lights, is one of the most popular Hindu festivals.",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-11-04",
+          "datetime": { "year": 2021, "month": 11, "day": 4 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Trinidad and Tobago (Port of Spain)",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-12-21T11:59:18-04:00",
+          "datetime": {
+            "year": 2021,
+            "month": 12,
+            "day": 21,
+            "hour": 11,
+            "minute": 59,
+            "second": 18
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": ["Season"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-12-24",
+          "datetime": { "year": 2021, "month": 12, "day": 24 }
+        },
+        "type": ["Observance"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-12-25",
+          "datetime": { "year": 2021, "month": 12, "day": 25 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Trinidad and Tobago",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-12-26",
+          "datetime": { "year": 2021, "month": 12, "day": 26 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day observed",
+        "description": "Boxing Day is a public holiday in Trinidad and Tobago",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-12-27",
+          "datetime": { "year": 2021, "month": 12, "day": 27 }
+        },
+        "type": ["National holiday"],
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year\u2019s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": { "id": "tt", "name": "Trinidad and Tobago" },
+        "date": {
+          "iso": "2021-12-31",
+          "datetime": { "year": 2021, "month": 12, "day": 31 }
+        },
+        "type": ["Observance"],
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}
